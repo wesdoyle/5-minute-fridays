@@ -1,0 +1,11 @@
+C:\Users\Wes\Documents\Visual Studio 2017\Projects\PurchaseOrderBuilder\PurchaseOrderBuilder\bin\Debug\netcoreapp2.0\PurchaseOrderBuilder.deps.json
+C:\Users\Wes\Documents\Visual Studio 2017\Projects\PurchaseOrderBuilder\PurchaseOrderBuilder\bin\Debug\netcoreapp2.0\PurchaseOrderBuilder.runtimeconfig.json
+C:\Users\Wes\Documents\Visual Studio 2017\Projects\PurchaseOrderBuilder\PurchaseOrderBuilder\bin\Debug\netcoreapp2.0\PurchaseOrderBuilder.runtimeconfig.dev.json
+C:\Users\Wes\Documents\Visual Studio 2017\Projects\PurchaseOrderBuilder\PurchaseOrderBuilder\bin\Debug\netcoreapp2.0\PurchaseOrderBuilder.dll
+C:\Users\Wes\Documents\Visual Studio 2017\Projects\PurchaseOrderBuilder\PurchaseOrderBuilder\bin\Debug\netcoreapp2.0\PurchaseOrderBuilder.pdb
+C:\Users\Wes\Documents\Visual Studio 2017\Projects\PurchaseOrderBuilder\PurchaseOrderBuilder\obj\Debug\netcoreapp2.0\PurchaseOrderBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Wes\Documents\Visual Studio 2017\Projects\PurchaseOrderBuilder\PurchaseOrderBuilder\obj\Debug\netcoreapp2.0\PurchaseOrderBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Wes\Documents\Visual Studio 2017\Projects\PurchaseOrderBuilder\PurchaseOrderBuilder\obj\Debug\netcoreapp2.0\PurchaseOrderBuilder.AssemblyInfoInputs.cache
+C:\Users\Wes\Documents\Visual Studio 2017\Projects\PurchaseOrderBuilder\PurchaseOrderBuilder\obj\Debug\netcoreapp2.0\PurchaseOrderBuilder.AssemblyInfo.cs
+C:\Users\Wes\Documents\Visual Studio 2017\Projects\PurchaseOrderBuilder\PurchaseOrderBuilder\obj\Debug\netcoreapp2.0\PurchaseOrderBuilder.dll
+C:\Users\Wes\Documents\Visual Studio 2017\Projects\PurchaseOrderBuilder\PurchaseOrderBuilder\obj\Debug\netcoreapp2.0\PurchaseOrderBuilder.pdb
