@@ -1,0 +1,10 @@
+C:\Users\Wes\Projects\FiveMinute\MyWebApi\bin\Debug\netcoreapp2.0\MyWebApi.deps.json
+C:\Users\Wes\Projects\FiveMinute\MyWebApi\bin\Debug\netcoreapp2.0\MyWebApi.runtimeconfig.json
+C:\Users\Wes\Projects\FiveMinute\MyWebApi\bin\Debug\netcoreapp2.0\MyWebApi.runtimeconfig.dev.json
+C:\Users\Wes\Projects\FiveMinute\MyWebApi\bin\Debug\netcoreapp2.0\MyWebApi.dll
+C:\Users\Wes\Projects\FiveMinute\MyWebApi\bin\Debug\netcoreapp2.0\MyWebApi.pdb
+C:\Users\Wes\Projects\FiveMinute\MyWebApi\obj\Debug\netcoreapp2.0\MyWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Wes\Projects\FiveMinute\MyWebApi\obj\Debug\netcoreapp2.0\MyWebApi.AssemblyInfoInputs.cache
+C:\Users\Wes\Projects\FiveMinute\MyWebApi\obj\Debug\netcoreapp2.0\MyWebApi.AssemblyInfo.cs
+C:\Users\Wes\Projects\FiveMinute\MyWebApi\obj\Debug\netcoreapp2.0\MyWebApi.dll
+C:\Users\Wes\Projects\FiveMinute\MyWebApi\obj\Debug\netcoreapp2.0\MyWebApi.pdb
