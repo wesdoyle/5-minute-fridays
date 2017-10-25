@@ -1,0 +1,11 @@
+on": "2.0.0",
+    "tasks": [
+{
+    "taskName": "Run Tests",
+    "type": "shell",
+    "windows": {
+        "command": "~\/projects\/AdvantageApi\/AdvantageApi.Tests\/bin\/debug\/TestRunner.exe"
+    }
+}
+]
+}
