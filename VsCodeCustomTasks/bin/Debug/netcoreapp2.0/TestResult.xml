@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="1" result="Failed" label="Error" total="1" passed="0" failed="1" inconclusive="0" skipped="0" asserts="0" engine-version="3.7.0.0" clr-version="4.0.30319.42000" start-time="2017-10-27 23:37:11Z" end-time="2017-10-27 23:37:12Z" duration="0.459089">
+  <command-line><![CDATA[NUNIT3-CONSOLE  VsCodeCustomTasks.dll]]></command-line>
+  <test-suite type="Assembly" id="0" name="" fullname="" runstate="NotRunnable" testcasecount="1" result="Failed" label="Error" start-time="2017-10-27 23:37:12Z" end-time="2017-10-27 23:37:12Z" duration="0.001" total="1" passed="0" failed="1" inconclusive="0" skipped="0" asserts="0">
+    <failure>
+      <message><![CDATA[An exception occurred in the driver while loading tests.]]></message>
+      <stack-trace><![CDATA[
+Server stack trace: 
+   at NUnit.Engine.Runners.DirectTestRunner.LoadDriver(IFrameworkDriver driver, String testFile, TestPackage subPackage)
+   at NUnit.Engine.Runners.DirectTestRunner.LoadPackage()
+   at NUnit.Engine.Runners.DirectTestRunner.EnsurePackageIsLoaded()
+   at NUnit.Engine.Runners.DirectTestRunner.RunTests(ITestEventListener listener, TestFilter filter)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink._PrivateProcessMessage(IntPtr md, Object[] args, Object server, Object[]& outArgs)
+   at System.Runtime.Remoting.Messaging.StackBuilderSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NUnit.Engine.ITestEngineRunner.Run(ITestEventListener listener, TestFilter filter)
+   at NUnit.Engine.Runners.ProcessRunner.RunTests(ITestEventListener listener, TestFilter filter)]]></stack-trace>
+    </failure>
+  </test-suite>
+</test-run>
