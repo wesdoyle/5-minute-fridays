@@ -1,0 +1,13 @@
+C:\Users\Wes\Projects\SampleTests\bin\Debug\netcoreapp2.0\SampleTests.deps.json
+C:\Users\Wes\Projects\SampleTests\bin\Debug\netcoreapp2.0\SampleTests.runtimeconfig.json
+C:\Users\Wes\Projects\SampleTests\bin\Debug\netcoreapp2.0\SampleTests.runtimeconfig.dev.json
+C:\Users\Wes\Projects\SampleTests\bin\Debug\netcoreapp2.0\SampleTests.dll
+C:\Users\Wes\Projects\SampleTests\bin\Debug\netcoreapp2.0\SampleTests.pdb
+C:\Users\Wes\Projects\SampleTests\obj\Debug\netcoreapp2.0\SampleTests.csproj.CoreCompileInputs.cache
+C:\Users\Wes\Projects\SampleTests\obj\Debug\netcoreapp2.0\SampleTests.AssemblyInfoInputs.cache
+C:\Users\Wes\Projects\SampleTests\obj\Debug\netcoreapp2.0\SampleTests.AssemblyInfo.cs
+C:\Users\Wes\Projects\SampleTests\obj\Debug\netcoreapp2.0\SampleTests.dll
+C:\Users\Wes\Projects\SampleTests\obj\Debug\netcoreapp2.0\SampleTests.pdb
+C:\Users\Wes\Projects\SampleTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Wes\Projects\SampleTests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\Wes\Projects\SampleTests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
