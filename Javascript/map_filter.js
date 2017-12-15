@@ -32,22 +32,3 @@ console.log('expensive items:', expensive_products);
 
 var query = products.filter(expensive).map(x => x.rating);
 console.log(query);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
