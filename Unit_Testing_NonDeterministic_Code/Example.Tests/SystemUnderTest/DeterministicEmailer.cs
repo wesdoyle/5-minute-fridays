@@ -23,10 +23,9 @@ namespace Example.Tests.SystemUnderTest {
             _dateTimeProvider = dateTimeProvider;
         }
         
-        public string TryBuildEmail(DayOfWeek recapDay) {
-            return _dateTimeProvider.IsTodayDayOfWeek(recapDay)
+        public string TryBuildEmail(DayOfWeek recapDay) 
+            => _dateTimeProvider.IsTodayDayOfWeek(recapDay)
                 ? "Weekly Recap" 
                 : "Normal Email";
-        }
     }
 }
