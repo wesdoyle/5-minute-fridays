@@ -12,9 +12,9 @@ namespace Example.Tests.SystemUnderTest {
 
     /// <summary>
     /// We can easily unit test the methods in this class
-    /// that depend on a time, because we invert control
-    /// of the provider to an outer scope, where this class
-    /// is instantiated.
+    /// that depend on the otherwise non-deterministic system clock
+    /// because we invert control of the provider of this behavior
+    /// to an outer scope - where this class is instantiated.
     /// </summary>
     public class DeterministicEmailer {
         private readonly IDateTimeProvider _dateTimeProvider;
